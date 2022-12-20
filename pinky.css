@@ -1,0 +1,207 @@
+.header {
+    display: flex;
+  width: 100%;
+align-items: center;
+justify-content: center;
+}
+
+ .header img{
+    padding: 0 25px;
+    width: 150px;
+    height: 150px;
+ }
+
+.header-links{
+
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-family: 'Prompt', sans-serif;
+}
+.header button{
+    display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px;
+color: #fff;
+width: 400px;
+height: 50px;
+border-color: #fff;
+
+background: linear-gradient(90.32deg, #C517F1 -5.28%, #F24E1E 109.58%, #E91ED5 164.37%);
+border-radius: 30px;
+}
+
+.dogood{
+    display: flex;
+    width: 100%;justify-content: space-between;
+    font-family: 'Prompt', sans-serif;
+
+}
+
+.dogood img {
+    width: 400px;
+    height: 400px;
+   
+    
+}
+
+.dogood1{
+    font-family: 'Prompt', sans-serif;
+  
+   justify-content: center;
+    color: #C517F1;
+    font-size: 90px;
+}
+
+.fromnowon{
+  
+    justify-content: center;
+     color: #f11779;
+     font-size: 30px;
+     font-family: 'Prompt', sans-serif;
+ }
+
+.writing button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+    width: 400px;
+    height: 50px;
+    border-color: #fff;
+    
+    background: linear-gradient(90.32deg, #C517F1 -5.28%, #F24E1E 109.58%, #E91ED5 164.37%);
+    border-radius: 30px;
+ 
+}
+
+
+   
+
+.buttons{
+    display: flex;
+    
+    
+
+
+}
+
+.pink-card {
+    margin-top: 20px;
+    background-color: #f5afe3;
+    border-radius: 35px;
+    
+}
+.pink-card__content {
+    padding: 45px;
+
+}
+.pink-card__content__item {
+    width: 365px;
+   
+}
+.pink-card__content__item:first-child {
+    width: 365px;
+    color: #C517F1;
+    font-size: 70px;
+    font-weight: 700;
+  line-height: 73px;
+  margin-bottom: 20px;
+   font-family: 'Prompt', sans-serif;
+   
+}
+.pink-card__content__item{
+    font-family: 'Prompt', sans-serif;
+    
+    
+ 
+   
+}
+.futurepinky{
+    margin-top: 50px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 35px;
+    color: #C517F1;
+
+}
+.works {
+   display: flex;
+   margin-left: 60px;
+   
+   margin-top: 40px;
+}
+.nft img{
+    max-width: 450px;
+height: auto;
+    
+ 
+}
+.meta img{
+    max-width: 450px;
+height: auto;
+}
+.flappy img{
+    max-width: 400px;
+height: auto;
+}
+.meet-the-team{
+    margin-top: 40px;
+   
+   font-family: 'Prompt', sans-serif;
+   font-size: 73px;
+   text-align: center;
+   margin-bottom: 20px;
+  
+}
+.team img{
+    max-width: 1300px;
+    height: 612px;
+    margin-left: 100px;
+
+}
+.community {
+    margin-top: 20px;
+    background: linear-gradient(90.32deg, #C517F1 -5.28%, #5AFFFF 109.58%, #E91ED5 164.37%);
+    ;
+    border-radius: 35px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+ 
+    
+}
+.community-content {
+    padding: 25px;
+  
+}
+.pinkycom {
+    font-family: 'Prompt', sans-serif;
+    size: 35px;
+    color: #fff;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+  
+}
+.telegram{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color:black;
+    width: 400px;
+    height: 50px;
+    border-color: #fff;
+    font-family: 'Prompt', sans-serif;
+    
+    background: white;
+    border-radius: 30px;
+
+}

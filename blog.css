@@ -1,0 +1,77 @@
+.blog1{
+    color: pink;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.blog2{
+    margin-top: 20px;
+    color: pink;
+    size: 50px;
+    margin-left: 30px;
+    font-family: 'Prompt', sans-serif;
+
+}
+.pink-card {
+   width: auto;
+   height: 250px;
+   
+    background-color: #f5afe3;
+    border-radius: 15px;
+    font-family: 'Prompt', sans-serif;
+  
+
+    
+}
+.pink-card__content {
+    padding: 15px;
+ display: flex;
+}
+
+.pink-card img {
+    width: 250px;
+ height: auto;
+   
+}
+
+.inner{
+    
+text-align:end;
+margin-block: 30px;
+ align-items:center ;
+
+ 
+}
+.telegram-card {
+    margin-top: 30px;
+    width: auto;
+    height: auto;
+    
+     background-color: #aff5eb;
+     border-radius: 15px;
+     font-family: 'Prompt', sans-serif;
+     
+ }
+ .telegramcard__content {
+    border-top: 30px;
+    margin-top: 30px;
+     padding: 15px;
+  display: flex;
+ }
+ 
+ .telegram-card img {
+
+     width: 200px;
+  height: 200px;
+    
+ }
+ 
+ .innertelegram{
+     
+ text-align:end;
+ margin-block: 30px;
+  align-items:center ;
+ 
+  
+ }
